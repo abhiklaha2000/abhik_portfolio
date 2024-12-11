@@ -9,7 +9,7 @@ const Navbar = () => {
               <Link
                 to="/"
                 className=" text-[#16f2b3] text-3xl font-bold">
-                Sajal Ghosh
+                Abhik Laha
               </Link>
             </div>
     
